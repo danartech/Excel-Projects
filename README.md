@@ -11,7 +11,7 @@ Welcome to the Excel Projects repository! This repository is a collection of my 
 **Description:** Leveraged Microsoft Excel to create an interactive data analysis dashboard, showcasing skills in data cleaning, advanced functions, VBA macros, and dynamic visualization.
 
 ### [Coffee Sales Analysis Project](https://github.com/danartech/Coffee-Sales-Analysis-Excel-Project)
-** Description: This project focuses on analyzing coffee sales data to derive meaningful insights that can guide business decisions. Through various data analysis techniques, I examined sales trends, customer preferences, and performance metrics.
+**Description:** This project focuses on analyzing coffee sales data to derive meaningful insights that can guide business decisions. Through various data analysis techniques, I examined sales trends, customer preferences, and performance metrics.
 
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
