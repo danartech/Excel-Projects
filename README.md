@@ -13,6 +13,9 @@ Welcome to the Excel Projects repository! This repository is a collection of my 
 ### [Coffee Sales Analysis Project](https://github.com/danartech/Coffee-Sales-Analysis-Excel-Project)
 **Description:** This project focuses on analyzing coffee sales data to derive meaningful insights that can guide business decisions. Through various data analysis techniques, I examined sales trends, customer preferences, and performance metrics.
 
+### [Social Buzz Data Analysis Project](https://github.com/danartech/Social-Buzz-Data-Analysis-Project)
+**Description:** Led a data analysis project at Accenture for Social Buzz, a social media company, identifying the top five content categories by popularity to inform strategic decisions for their upcoming IPO, utilizing advanced data cleaning, merging techniques, and Excel functions. 
+
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
 
