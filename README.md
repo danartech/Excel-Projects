@@ -16,6 +16,9 @@ Welcome to the Excel Projects repository! This repository is a collection of my 
 ### [Social Buzz Data Analysis Project](https://github.com/danartech/Social-Buzz-Data-Analysis-Project)
 **Description:** Led a data analysis project at Accenture for Social Buzz, a social media company, identifying the top five content categories by popularity to inform strategic decisions for their upcoming IPO, utilizing advanced data cleaning, merging techniques, and Excel functions. 
 
+### [Healthcare Analytics Dashboard - Excel Project](https://github.com/danartech/Healthcare-Analytics-Excel)
+**Description:** Analyzed healthcare data to derive actionable insights for improved patient care and resource allocation using Excel and SQL, visualized through interactive dashboards. 
+
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
 
