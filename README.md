@@ -19,6 +19,9 @@ Welcome to the Excel Projects repository! This repository is a collection of my 
 ### [Healthcare Analytics Dashboard - Excel Project](https://github.com/danartech/Healthcare-Analytics-Excel)
 **Description:** Analyzed healthcare data to derive actionable insights for improved patient care and resource allocation using Excel and SQL, visualized through interactive dashboards. 
 
+### [New York Jobs CEO Council Financial Analyst Job Simulation](https://github.com/danartech/Financial-Analysis-of-BigTechCompany)
+**Description:** Comprehensive financial analysis of BigTechCompany to assess historical performance, customer trends, and future projections for strategic client relationship decisions. 
+
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
 
